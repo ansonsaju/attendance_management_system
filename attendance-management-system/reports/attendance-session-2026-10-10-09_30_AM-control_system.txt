@@ -1,0 +1,29 @@
+Attendance Management System - Class Session Report
+Session: 2026-10-10 | 09:30 AM | control system
+
+Marked: 0
+Present: 0
+Absent: 0
+Late: 0
+Excused: 0
+Attendance: 0.00%
+
+Gender-wise Attendance
+Gender   Present  Absent   Late     Excused 
+--------------------------------------------
+Boy      0        0        0        0       
+Girl     0        0        0        0       
+Other    0        0        0        0       
+
+Present Students:
+  None
+
+Absent Students:
+  None
+
+Late Students:
+  None
+
+Excused Students:
+  None
+

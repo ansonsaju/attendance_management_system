@@ -1,0 +1,35 @@
+Attendance Management System - Class Session Report
+Session: 2026-10-10 | 09:30 AM | Java Programming
+
+Marked: 8
+Present: 4
+Absent: 4
+Late: 0
+Excused: 0
+Attendance: 50.00%
+
+Gender-wise Attendance
+Gender   Present  Absent   Late     Excused 
+--------------------------------------------
+Boy      4        2        0        0       
+Girl     0        2        0        0       
+Other    0        0        0        0       
+
+Present Students:
+  2 - abhinav (Boy)
+  144 - test (Boy)
+  S002 - Rohan Mehta (Boy)
+  S004 - Aman Verma (Boy)
+
+Absent Students:
+  1 - Anson (Boy)
+  14 - abhi (Boy)
+  S001 - Asha Patel (Girl)
+  S003 - Neha Sharma (Girl)
+
+Late Students:
+  None
+
+Excused Students:
+  None
+
